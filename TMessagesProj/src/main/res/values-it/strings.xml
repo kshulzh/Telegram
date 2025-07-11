@@ -1187,6 +1187,13 @@
     <string name="Edit">Modifica</string>
     <string name="Send">Invia</string>
     <string name="Call">Chiama</string>
+    <string name="Camera">Fotocamera</string>
+    <string name="Discuss">Discuta</string>
+    <string name="Gift">Regalo</string>
+    <string name="Join">Unisciti</string>
+    <string name="Leave">Lascia</string>
+    <string name="Share">Condividi</string>
+    <string name="Video">Videochiamata</string>
     <string name="VideoCall">Videochiama</string>
     <string name="Copy">Copia</string>
     <string name="Restrict">Limita</string>

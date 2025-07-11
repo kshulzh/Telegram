@@ -885,6 +885,13 @@
     <string name="Edit">Editar</string>
     <string name="Send">Enviar</string>
     <string name="Call">Ligar</string>
+    <string name="Camera">Câmera</string>
+    <string name="Discuss">Discutir</string>
+    <string name="Gift">Presente</string>
+    <string name="Join">Entrar</string>
+    <string name="Leave">Sair</string>
+    <string name="Share">Compartilhar</string>
+    <string name="Video">Vídeo</string>
     <string name="VideoCall">Videochamada</string>
     <string name="Copy">Copiar</string>
     <string name="Restrict">Restringir</string>

@@ -3604,6 +3604,13 @@
     <string name="SuggestedPostPublish">Publish</string>
     <string name="SuggestedPostAcceptTitle">Accept Terms</string>
     <string name="Call">Call</string>
+    <string name="Camera">Camera</string>
+    <string name="Discuss">Discuss</string>
+    <string name="Gift">Gift</string>
+    <string name="Join">Join</string>
+    <string name="Leave">Leave</string>
+    <string name="Share">Share</string>
+    <string name="Video">Video</string>
     <string name="VideoCall">Video Call</string>
     <string name="Copy">Copy</string>
     <string name="Restrict">Restrict</string>

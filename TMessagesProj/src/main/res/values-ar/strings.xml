@@ -899,6 +899,13 @@
     <string name="Edit">تعديل</string>
     <string name="Send">إرسال</string>
     <string name="Call">اتصال</string>
+    <string name="Camera">كاميرا</string>
+    <string name="Discuss">نقاش</string>
+    <string name="Gift">هدية</string>
+    <string name="Join">انضمام</string>
+    <string name="Leave">مغادرة</string>
+    <string name="Share">مشاركة</string>
+    <string name="Video">فيديو</string>
     <string name="VideoCall">مكالمة مرئية</string>
     <string name="Copy">نسخ</string>
     <string name="Restrict">تقييد</string>

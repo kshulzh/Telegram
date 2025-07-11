@@ -951,6 +951,13 @@
     <string name="Edit">Editar</string>
     <string name="Send">Enviar</string>
     <string name="Call">Llamar</string>
+    <string name="Camera">Cámara</string>
+    <string name="Discuss">Discutir</string>
+    <string name="Gift">Regalo</string>
+    <string name="Join">Unirse</string>
+    <string name="Leave">Salir</string>
+    <string name="Share">Compartir</string>
+    <string name="Video">Vídeo</string>
     <string name="VideoCall">Videollamar</string>
     <string name="Copy">Copiar</string>
     <string name="Restrict">Restringir</string>

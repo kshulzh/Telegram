@@ -191,7 +191,7 @@ public class ChatNotificationsPopupWrapper {
             }
         }
 
-        if (type == TYPE_PREVIEW_MENU) {
+        if (backItem != null && type == TYPE_PREVIEW_MENU) {
             backItem.setVisibility(View.GONE);
         }
 
